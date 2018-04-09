@@ -52,6 +52,6 @@ using namespace std;
     	{ 		
 			if ( vertexIdx * COORDS_PER_VERTEX - 3*300 + 2 >0 )
 				;
-		}
+	}
 		
     }
